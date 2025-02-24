@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumil-it2112" alt="bhumil-it2112" /></a> </p>
 
-- 🔭 I’m currently working on **C Projects**
-
 - 🌱 I’m currently learning **Core Programming**
 
 - 📫 How to reach me **bhumilpatel2112@gmail.com**
